@@ -21,7 +21,7 @@
     "python.linting.pylintPath": ".venv/bin/pylint",
     "python.languageServer": "Pylance",
     "python.linting.pylintArgs": [
-        "--extension-pkg-whitelist=rrdtool"
+        "--extension-pkg-whitelist=rrdtool,pydantic"
     ],
     "files.watcherExclude": {
         "**/.git/objects/**": true,
