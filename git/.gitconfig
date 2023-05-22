@@ -1,0 +1,8 @@
+[include]
+	path = ~/.gitconfig.local
+[color]	
+	ui = auto
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
